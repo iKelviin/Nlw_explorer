@@ -4,7 +4,7 @@
 
 Projeto construído no evento Next Level Week da Rocketseat.
 
-[Clique aqui para acessar](http://ikelviin.github.io/Nlw_explorer/)
+[Clique aqui para acessar](https://nlwexplorer.netlify.app/)
 
 ## 🤖 Tecnologias
 
@@ -12,6 +12,6 @@ Projeto construído no evento Next Level Week da Rocketseat.
 - CSS
 - Git e Github
 
-## Contato
+## 📲 Contato
 
 kelvinsantosdarocha@gmail.com
